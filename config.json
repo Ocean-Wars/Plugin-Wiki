@@ -6,6 +6,7 @@
     "admin_menus": {
         "Wiki": {
             "icon": "archive",
+            "index": 5,
             "menu": {
                 "Catégories": {
                     "icon": "cog",
